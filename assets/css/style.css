@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*ctrl+shift+R for refreashing changes to CSS */
+header {
+    background-color: aqua;
+}
+main {
+    background-color: blue;
+}
+footer {
+    background-color: brown;
+}
